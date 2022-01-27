@@ -1,0 +1,5 @@
+{
+  "name": "async-hooks-thing",
+  "main": "./index.js",
+  "sideEffects": false
+}
